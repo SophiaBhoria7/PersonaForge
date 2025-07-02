@@ -1,7 +1,7 @@
 import type { Express } from "express";
 import { createServer, type Server } from "http";
 import { storage } from "./storage";
-import { generatePersona } from "./services/openai";
+import { generatePersona } from "./services/cohere";
 import { generatePersonaPDF, generatePersonaJSON, generateShareLink } from "./services/pdf";
 import { insertPersonaRequestSchema } from "@shared/schema";
 
