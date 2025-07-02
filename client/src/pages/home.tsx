@@ -326,11 +326,6 @@ export default function Home() {
               Start Generating
             </Button>
           </div>
-          <img 
-            src="https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400" 
-            alt="Strategic business meeting with diverse professionals collaborating" 
-            className="rounded-2xl shadow-2xl mt-12 mx-auto max-w-2xl w-full opacity-90"
-          />
         </div>
       </section>
 
