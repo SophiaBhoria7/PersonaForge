@@ -118,10 +118,3 @@ Healthcare Administrator, 34 – San Francisco, CA
 - PDF/JSON Export: jsPDF, file-saver  
 - Styling: Tailwind CSS + custom gradients
 
----
-
-## 🚀 Getting Started
-
-1. **Clone the repository**
-```bash
-git clone https://replit.com/@SophiaBhoria7/PersonaForge
