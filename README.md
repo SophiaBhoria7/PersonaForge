@@ -47,7 +47,7 @@ Unlike traditional persona tools, PersonaForge goes beyond surface-level traits 
    - Technical, cultural, or budget constraints
 
 3. **Ethical & Human Considerations**  
-   - Fairness and inclusion areas of concern  
+   - Fairness and inclusion areas of concern 
    - Trust signals and red flags  
    - Learning preferences and accessibility needs
 
@@ -74,7 +74,7 @@ Healthcare Administrator, 34 – San Francisco, CA
 **Behavioral Insights:**
 - Decision Making: Data-driven, risk-averse  
 - Collaboration Style: Team-oriented, seeks consensus  
-- Time Constraints: High pressure, multitasking  
+- Time Constraints: High Pressure, Multitasking  
 - Learning Preference: Visual guides, hands-on practice
 
 **AI-Generated Quotes:**
